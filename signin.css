@@ -1,0 +1,371 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.left-side {
+  width: 500px;
+  height: 570px;
+  background-color: #c4d7e0;
+  display: inline-block;
+}
+.text-logo {
+  color: #00b9f1;
+  font-size: 20px;
+  opacity: 100%;
+  position: relative;
+  left: 35%;
+  top: 4px;
+  font-family: "Averia Serif Libre", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+span {
+  color: #002e6e;
+  font-family: "Averia Serif Libre", serif;
+  font-weight: 300;
+  font-style: normal;
+}
+.img-1 {
+  width: 400px;
+  height: 400px;
+  position: relative;
+  left: 22px;
+  bottom: 55px;
+  font-family: sans-serif;
+}
+.para-1 {
+  position: relative;
+  bottom: 60px;
+  left: 75px;
+  text-decoration: underline double #7ab2b2;
+  font-size: 20px;
+  color: #7469b6;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.para-2 {
+  position: relative;
+  left: 55px;
+  bottom: 35px;
+  color: #d2649a;
+  font-family: "Poppins", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
+.img-2 {
+  width: 18px;
+  position: relative;
+  bottom: 22px;
+  right: 21px;
+}
+.paragraph-3 {
+  position: relative;
+  right: 0px;
+  bottom: 23px;
+}
+.image-3 {
+  width: 18px;
+  position: relative;
+  bottom: 45px;
+  right: 21px;
+}
+.paragraph-4 {
+  position: relative;
+  bottom: 47px;
+}
+.tick-1 {
+  width: 18px;
+  position: relative;
+  bottom: 66px;
+  right: 19px;
+}
+.right-side {
+  float: right;
+  background-color: #fff;
+  width: 400px;
+  height: 570px;
+  margin-right: 200px;
+  position: relative;
+  left: 100px;
+}
+.right-para1 {
+  text-align: center;
+  position: relative;
+  top: 10px;
+  color: #686d76;
+  font-weight: bold;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font: weight 300px;
+  font-style: normal;
+}
+.right-para2 {
+  text-align: center;
+  position: relative;
+  top: 50px;
+  color: #987070;
+  font-weight: bold;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+.button {
+  width: 300px;
+  height: 50px;
+  background-color: #fff;
+  border: 2px solid blue;
+  border-top: 2px red solid;
+  border-right: 2px blue solid;
+  border-left: 2px orange solid;
+  border-bottom: 2px green solid;
+  position: relative;
+  top: 55px;
+  left: 50px;
+  color: blue;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+  cursor: pointer;
+}
+a {
+  width: 40px;
+  position: relative;
+  left: 39px;
+}
+.google-img {
+  width: 50px;
+  position: relative;
+  right: 75px;
+}
+.para-5 {
+  position: relative;
+  bottom: 37px;
+  left: 14px;
+  color: blue;
+}
+.png-image {
+  width: 50px;
+  position: relative;
+  top: 77px;
+  right: 215px;
+}
+.invite {
+  position: relative;
+  top: 64px;
+  font-size: 20px;
+  left: 87px;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  font-style: normal;
+}
+.signin-box {
+  width: 300px;
+  height: 370px;
+  background-color: #d8efd3;
+  position: relative;
+  top: 79px;
+  left: 93px;
+}
+.name-login {
+  width: 224px;
+  position: relative;
+  left: 32px;
+  top: 22px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+.mail-login {
+  width: 224px;
+  position: relative;
+  left: 32px;
+  top: 34px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+.pass-login {
+  position: relative;
+  top: 46px;
+  left: 32px;
+  width: 224px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid white;
+}
+.confirm-pass {
+  width: 224px;
+  height: 40px;
+  border-radius: 10px;
+  border: 2px solid white;
+  position: relative;
+  top: 57px;
+  left: 35px;
+}
+.check {
+  position: relative;
+  top: 73px;
+  left: 25px;
+  color: #219c90;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+}
+.main-text {
+  position: relative;
+  left: 78px;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  text-decoration: underline dashed 3px #bc5a94;
+}
+hr {
+  position: relative;
+  top: 70px;
+  left: 10px;
+}
+.choice {
+  position: relative;
+  top: 59px;
+  left: 222px;
+  background: red;
+}
+.btn-sub {
+  position: relative;
+  top: 84px;
+  left: 12px;
+  width: 266px;
+  height: 35px;
+  background-color: blue;
+  color: white;
+  font-family: "Inter Tight", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: bold;
+  border-radius: 20px;
+}
+.final {
+  position: relative;
+  top: 100px;
+  font-family: "Poppins";
+  font-size: 14px;
+  left: 14px;
+}
+.final a {
+  position: relative;
+  left: 2px;
+  bottom: 1px;
+  text-decoration: none;
+  color: blue;
+}
+.signup-main {
+  text-decoration: none;
+  position: relative;
+  left: 7px;
+  bottom: 25px;
+  color: #8e3e63;
+  font-weight: bold;
+}
+.login-main {
+  text-decoration: none;
+  position: relative;
+  bottom: 25px;
+  color: #050c9c;
+  font-weight: bold;
+  left: 15px;
+  cursor: pointer;
+}
+.vertical {
+  border-left: 3px solid black;
+  height: 34px;
+  position: relative;
+  left: 92px;
+  bottom: 53px;
+}
+.left-side .login-main {
+  position: relative; /* Ensure it's not positioned absolutely behind something else */
+  z-index: 10; /* Bring it to the front if necessary */
+}
+/*@media (max-width: 400px) {
+  .left-side {
+    width: 250px;
+    height: 235px;
+    background-color: #c4d7e0;
+    display: inline-block;
+  }
+  .right-side {
+    float: right;
+    background-color: #fff;
+    width: 250px;
+    height: 325px;
+    margin-right: 200px;
+    position: relative;
+    left: 100px;
+  }
+  .para-2 {
+    position: relative;
+    left: 52px;
+    bottom: 35px;
+    color: #d2649a;
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+}
+  */
+@media (max-width: 600px) {
+  .left-side {
+    width: 100%;
+    height: auto;
+  }
+  .right-side {
+    width: 100%;
+    height: auto;
+    margin-right: 0;
+    left: 0;
+  }
+  .img-1 {
+    width: 90%;
+    height: auto;
+    left: 5%;
+    bottom: 0;
+  }
+  .para-1 {
+    bottom: 0;
+    left: 5%;
+    font-size: 16px;
+  }
+  .para-2 {
+    left: 5%;
+    bottom: 0;
+    font-size: 16px;
+  }
+  .button {
+    width: 80%;
+    left: 10%;
+    top: 30px;
+  }
+  .signin-box {
+    width: 80%;
+    height: auto;
+    top: 30px;
+    left: 10%;
+  }
+  .name-login,
+  .mail-login,
+  .pass-login,
+  .confirm-pass {
+    width: 90%;
+    left: 5%;
+  }
+  .btn-sub {
+    width: 90%;
+    left: 5%;
+    top: 30px;
+  }
+  .final {
+  }
+}
